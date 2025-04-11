@@ -32,12 +32,12 @@ Developing a **predictive model** for food products’ **Nutri-Score** classific
 ---
 
 ## 🌱 Currently Learning
-- Machine Learning & Deep Learning for finance and healthcare  
+- Machine Learning & Deep Learning
 - Risk modeling & econometrics  
 - Data engineering & APIs  
 
 ## 💡 Looking to Collaborate On
-- AI projects in **finance, healthcare & risk analysis**  
+- AI projects in **finance & risk analysis**  
 - Open-source **data science projects**  
 - Interactive data visualization  
 
