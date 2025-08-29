@@ -9,6 +9,10 @@ Currently, I’m pursuing a **Master 2 in Data Science at IDMC - Université de 
 
 ## 🚀 My Projects
 
+### 🏦 [📊 Projet_Scoring](https://github.com/ladijadi/Projet_Scoring)
+**Tech Stack:** Python, Pandas, Numpy, Scipy stats 
+A **machine learning model** to predict credit eligibility based on client financial profiles.
+
 ### 🏦 [📊 Prediction of Credit Eligibility](https://github.com/ladijadi/Prediction_eligibilite_credit_banque)
 **Tech Stack:** Python, Scikit-Learn, Pandas, Flask  
 A **machine learning model** to predict credit eligibility based on client financial profiles.
