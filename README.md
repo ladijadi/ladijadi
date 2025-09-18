@@ -1,51 +1,96 @@
 # 👋 Hi, I’m Khady Diagne (@ladijadi)
 
-🎯 **Data Science | AI | Quantitative Finance | Risk Analysis**  
+🎯 **Data Science | Machine Learning | AI | Quantitative Finance & Risk Modeling**
 
-I'm passionate about **Data Science, Machine Learning, and AI** applied to **finance, and risk modeling**.  
-Currently, I’m pursuing a **Master 2 in Data Science at IDMC - Université de Lorraine** and a certification in **Quantitative Risk Analysis**.
+I’m passionate about leveraging **data science, machine learning, and AI** to solve complex problems in **finance, risk analysis, and digital transformation**.  
+Currently pursuing a **Master 2 in Data Science at IDMC - Université de Lorraine**, and self-training in **quantitative risk modeling (PD, LGD, EAD), NDoD**.
 
 ---
 
-## 🚀 My Projects
+## 🛠️ Skills
 
-### 🏦 [📊 Projet_Scoring](https://github.com/ladijadi/Projet_Scoring)
-**Tech Stack:** Python, Pandas, Numpy, Scipy stats 
-A **machine learning model** to predict credit eligibility based on client financial profiles.
+**Programming & Data Engineering**  
+Python (Pandas, NumPy, SciPy, Scikit-learn, PyTorch, TensorFlow), SQL, R, SAS (learning), PySpark, Dataiku DSS, Git/GitLab, Docker (basics), APIs  
 
-### 🏦 [📊 Prediction of Credit Eligibility](https://github.com/ladijadi/Prediction_eligibilite_credit_banque)
+**Machine Learning & AI**  
+Supervised & Unsupervised Learning, Regression, Decision Trees, XGBoost, Credit Scoring, Fraud Detection, Anomaly Detection, Time Series (ARIMA, Prophet, LSTM)  
+
+**Deep Learning & NLP**  
+CNN, RNN, Autoencoders, NLP (Text Classification, NER, Information Extraction), LLM (RAG, fine-tuning), Explainable AI (SHAP, LIME)  
+
+**Risk & Finance**  
+PD, LGD, EAD, Stress Tests, NDoD, Basel II/III, ECB/EBA regulatory frameworks  
+
+**Data Visualization & Tools**  
+Power BI, Tableau, Alteryx, Matplotlib, Seaborn, Plotly, Dash, Streamlit  
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 [📊 Credit Risk Scoring](https://github.com/ladijadi/Projet_Scoring)
+**Problem:** Predict client default probability to support credit decision-making.  
+**Solution:** Developed a machine learning scoring model using financial client profiles.  
+**Tech Stack:** Python, Pandas, NumPy, SciPy.stats  
+**Outcome:** Risk segmentation to optimize loan approval processes.  
+
+---
+
+### 🏦 [📊 Credit Eligibility Prediction](https://github.com/ladijadi/Prediction_eligibilite_credit_banque)
+**Problem:** Automate loan eligibility decisions.  
+**Solution:** End-to-end ML pipeline with model deployment via Flask API.  
 **Tech Stack:** Python, Scikit-Learn, Pandas, Flask  
-A **machine learning model** to predict credit eligibility based on client financial profiles.
+**Outcome:** Interactive tool to assess credit eligibility in real time.  
+
+---
 
 ### 🏥 [🩺 Prediction of Medical Expenses](https://github.com/ladijadi/prediction_frais_medicaux/blob/main/notebook.ipynb)
+**Problem:** Estimate healthcare costs based on patient data (age, BMI, medical conditions).  
+**Solution:** Regression model for cost prediction and insurance optimization.  
 **Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib  
-A **regression model** to predict healthcare costs based on patient data (age, BMI, medical conditions, etc.).
+**Outcome:** Model with explainability for better decision support.  
 
-### 🦟 [🦠 AI-based Malaria Detection](https://github.com/ladijadi/Application-IA-Malaria)
+---
+
+### 🦟 [🦠 Malaria Detection with AI](https://github.com/ladijadi/Application-IA-Malaria)
+**Problem:** Detect malaria from blood cell images.  
+**Solution:** Deep Learning model (CNN) deployed with Flask for real-time classification.  
 **Tech Stack:** Python, TensorFlow, Keras, Flask  
-An **AI-powered application** that detects malaria from blood cell images using **deep learning**.
+**Outcome:** Automated medical image classification with strong accuracy.  
+
+---
 
 ### 🚲 [🚴 Bike-sharing Optimization](https://github.com/ladijadi/bike-sharing-optimization)
+**Problem:** Station imbalances in bike-sharing systems.  
+**Solution:** Data-driven optimization with network analysis and API integration.  
 **Tech Stack:** Python, OSMnx, NetworkX, Folium, JCDecaux API  
-A **data-driven solution** to optimize the bike-sharing system in Nancy, analyzing station imbalances and suggesting redistribution strategies.
+**Outcome:** Insights and redistribution strategies for operational efficiency.  
+
+---
 
 ### 🍏 [📈 Nutri-Score Prediction](https://github.com/ladijadi/nutri-score-prediction)
+**Problem:** Classify food products based on nutrition values.  
+**Solution:** Predictive ML model for Nutri-Score classification.  
 **Tech Stack:** Python, Pandas, Matplotlib, Scikit-Learn  
-Developing a **predictive model** for food products’ **Nutri-Score** classification based on nutritional data.
+**Outcome:** Automated tool to support healthier food choices.  
 
 ---
 
 ## 🌱 Currently Learning
-- Machine Learning & Deep Learning
-- Risk modeling & econometrics  
-- Data engineering & APIs  
+- Quantitative Risk Modeling (PD, LGD, EAD, NDoD)  
+- Explainable AI (XAI), LLM fine-tuning & RAG  
+- Data engineering (PySpark, Docker, CI/CD)  
+
+---
 
 ## 💡 Looking to Collaborate On
 - AI projects in **finance & risk analysis**  
-- Open-source **data science projects**  
-- Interactive data visualization  
+- Open-source **data science applications**  
+- Interactive data visualization tools  
+
+---
 
 ## 📫 How to Reach Me
-[📧 Email](mailto:khadydiagne18@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/khadydiagne/)  
+📧 [Email](mailto:khadydiagne18@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/khady-diagne-datascientist/)  
 
-⚡ **Fun Fact:** I enjoy solving data puzzles while sipping a great cup of coffee! ☕  
+⚡ **Fun Fact:** I enjoy solving data puzzles while sipping a great cup of coffee ☕
