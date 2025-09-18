@@ -68,7 +68,7 @@ Power BI, Tableau, Alteryx, Matplotlib, Seaborn, Plotly, Dash, Streamlit
 
 ---
 
-### 🍏 [📈 Nutri-Score Prediction](https://github.com/ladijadi/nutri-score-prediction)
+### 🍏 [📈 Nutri-Score Prediction](https://github.com/ladijadi/Nutriscore_OpenFoodsFacts_Docker)
 **Problem:** Classify food products based on nutrition values.  
 **Solution:** Predictive ML model for Nutri-Score classification.  
 **Tech Stack:** Python, Pandas, Matplotlib, Scikit-Learn  
