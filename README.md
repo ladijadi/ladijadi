@@ -60,14 +60,6 @@ Power BI, Tableau, Alteryx, Matplotlib, Seaborn, Plotly, Dash, Streamlit
 
 ---
 
-### 🚲 [🚴 Bike-sharing Optimization](https://github.com/ladijadi/bike-sharing-optimization)
-**Problem:** Station imbalances in bike-sharing systems.  
-**Solution:** Data-driven optimization with network analysis and API integration.  
-**Tech Stack:** Python, OSMnx, NetworkX, Folium, JCDecaux API  
-**Outcome:** Insights and redistribution strategies for operational efficiency.  
-
----
-
 ### 🍏 [📈 Nutri-Score Prediction](https://github.com/ladijadi/Nutriscore_OpenFoodsFacts_Docker)
 **Problem:** Classify food products based on nutrition values.  
 **Solution:** Predictive ML model for Nutri-Score classification.  
