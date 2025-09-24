@@ -76,8 +76,8 @@ Power BI, Tableau, Alteryx, Matplotlib, Seaborn, Plotly, Dash, Streamlit
 ---
 
 ## 💡 Looking to Collaborate On
-- AI projects in **finance & risk analysis**  
-- Open-source **data science applications**  
+- Open-source **data science applications** 
+- AI projects in **finance & risk analysis**   
 - Interactive data visualization tools  
 
 ---
