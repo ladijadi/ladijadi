@@ -3,7 +3,7 @@
 🎯 **Data Science | Machine Learning | AI | Quantitative Finance & Risk Modeling**
 
 I’m passionate about leveraging **data science, machine learning, and AI** to solve complex problems in **finance, risk analysis, and digital transformation**.  
-Currently pursuing a **Master 2 in Data Science at IDMC - Université de Lorraine**, and self-training in **quantitative risk modeling (PD, LGD, EAD), NDoD**.
+Currently pursuing a **Master 2 in Data Science at IDMC - Université de Lorraine**, and self-training in **quantitative risk modeling (PD, LGD), NDoD**.
 
 ---
 
