@@ -28,6 +28,14 @@ Power BI, Tableau, Alteryx, Matplotlib, Seaborn, Plotly, Dash, Streamlit
 
 ## 🚀 Featured Projects
 
+### ☁️ [🌐 Cloud Azure Credit Risk Project](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)
+**Problem:** End-to-end implementation of a credit risk data pipeline on the cloud.  
+**Solution:** Designed and deployed a complete architecture using **Alteryx**, **Azure Blob Storage, Azure SQL Database, and Azure Data Factory**, with **Power BI** for interactive dashboards.  
+**Tech Stack:** Python (Pandas, Matplotlib, Seaborn), Azure Cloud (Blob Storage, SQL DB, Data Factory), Power BI, Alteryx  
+**Outcome:** Automated credit risk scoring workflow (10M rows, 26 features) with KPI visualization on default rates, payment scores, and credit exposure.  
+
+---
+
 ### 🏦 [📊 Credit Risk Scoring](https://github.com/ladijadi/Projet_Scoring)
 **Problem:** Predict client default probability to support credit decision-making.  
 **Solution:** Developed a machine learning scoring model using financial client profiles.  
@@ -76,8 +84,8 @@ Power BI, Tableau, Alteryx, Matplotlib, Seaborn, Plotly, Dash, Streamlit
 ---
 
 ## 💡 Looking to Collaborate On
-- Open-source **data science applications** 
-- AI projects in **finance & risk analysis**   
+- Open-source **data science applications**  
+- AI projects in **finance & risk analysis**  
 - Interactive data visualization tools  
 
 ---
