@@ -49,6 +49,34 @@ Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, imbalanced-learn, Matplot
 **Outcome:**  
 Demonstrated that model evaluation must go beyond accuracy, especially in medical contexts, where **detecting rare but critical cases is a priority**.
 
+### 🏦 📉 [LGD Modeling – Loss Given Default (Healthy Portfolio)](https://github.com/ladijadi/Modelisation-de-la-LGD-pour-les-Sains)
+
+**Problem:**  
+Financial institutions must accurately estimate **Loss Given Default (LGD)** to quantify credit risk and meet regulatory requirements (EBA, Basel, IFRS 9).  
+The challenge is to model LGD using reliable, stable, and interpretable approaches, while ensuring regulatory robustness.
+
+**Data:**  
+The dataset contains **100+ demographic and financial variables** describing credit exposures that entered default between **2014 and 2022**, according to the **EBA regulatory definition of default**.  
+Explanatory variables for *healthy clients* are extracted **one year prior to default**, following best regulatory practices.
+
+**Objective:**  
+Develop a **segmentation model** to classify clients into **homogeneous risk classes (CHR)** based on LGD behavior.
+
+**Methodology:**  
+- Regulatory and business requirement analysis  
+- Data cleaning, representativity checks, and stability analysis  
+- Exploratory Data Analysis (EDA)  
+- Feature engineering, discretization, and selection  
+- Model development (linear regression, regression trees, gradient boosting)  
+- Model validation and robustness analysis  
+- Construction and validation of **homogeneous risk classes (CHR)**  
+
+**Tech Stack:**  
+Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+**Outcome:**  
+Identified key drivers of LGD, ensured stability of risk segmentation, and built a robust framework for **LGD estimation and credit risk quantification**, aligned with regulatory expectations.
+
 ### ☁️ [🌐 Cloud Azure Credit Risk Project](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)
 **Problem:** End-to-end implementation of a credit risk data pipeline on the cloud.  
 **Solution:** Designed and deployed a complete architecture using **Alteryx**, **Azure Blob Storage, Azure SQL Database, and Azure Data Factory**, with **Power BI** for interactive dashboards.  
