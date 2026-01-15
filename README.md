@@ -28,6 +28,27 @@ Power BI, Tableau, Alteryx, Matplotlib, Seaborn, Plotly, Dash, Streamlit
 
 ## 🚀 Featured Projects
 
+### 🧠 🩺 [Deep Learning – Breast Cancer Risk Prediction](https://github.com/ladijadi/DM_Deep_Learning/tree/main)
+
+**Problem:**  
+Medical screening strategies for breast cancer often rely mainly on age, which is not sufficient to accurately assess patient risk.  
+The challenge is to predict cancer risk levels while handling **highly imbalanced medical data**.
+
+**Solution:**  
+End-to-end AI project following the **CRISP methodology** to predict breast cancer risk levels (*Low, Medium, High*).  
+Several modeling strategies were tested to manage class imbalance and align model behavior with medical decision-making.
+
+**Approaches:**  
+- MLP (Multi-Layer Perceptron) with class weighting  
+- Balanced Random Forest  
+- Balanced Random Forest with safety threshold (recall-oriented strategy for high-risk patients)
+
+**Tech Stack:**  
+Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, imbalanced-learn, Matplotlib
+
+**Outcome:**  
+Demonstrated that model evaluation must go beyond accuracy, especially in medical contexts, where **detecting rare but critical cases is a priority**.
+
 ### ☁️ [🌐 Cloud Azure Credit Risk Project](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)
 **Problem:** End-to-end implementation of a credit risk data pipeline on the cloud.  
 **Solution:** Designed and deployed a complete architecture using **Alteryx**, **Azure Blob Storage, Azure SQL Database, and Azure Data Factory**, with **Power BI** for interactive dashboards.  
