@@ -8,7 +8,7 @@ Master’s student in Data Science (Université de Lorraine), specializing in **
 
 ## 🚀 Featured Projects
 
-### 🏦 Credit Risk Scoring — Default Prediction
+### 🏦 Credit Risk Scoring - Default Prediction
 
 Machine learning scoring model to predict client default probability and support credit decisions.
 
