@@ -8,7 +8,20 @@ Master’s student in Data Science (Université de Lorraine), specializing in **
 
 ## 🚀 Featured Projects
 
-### 🏦 LGD Modeling — Credit Risk Segmentation
+### 🏦 Credit Risk Scoring — Default Prediction
+
+Machine learning scoring model to predict client default probability and support credit decisions.
+
+Risk segmentation for loan approval
+
+Feature engineering on financial profiles
+
+Performance evaluation beyond accuracy
+
+Tech: Python · Pandas · NumPy · Scikit-learn
+🔗 https://github.com/ladijadi/Projet_Scoring
+
+### 🏦 LGD Modeling - Credit Risk Segmentation
 
 Regulatory-aligned LGD modeling to segment clients into homogeneous risk classes.
 
@@ -21,7 +34,7 @@ Regulatory-aligned LGD modeling to segment clients into homogeneous risk classes
 
 ---
 
-### ☁️ Cloud Azure — Credit Risk Pipeline
+### ☁️ Cloud Azure - Credit Risk Pipeline
 
 End-to-end cloud architecture for large-scale credit scoring.
 
@@ -34,7 +47,7 @@ End-to-end cloud architecture for large-scale credit scoring.
 
 ---
 
-### 📊 Big Data — Distributed Web Log Analysis
+### 📊 Big Data - Distributed Web Log Analysis
 
 Distributed analytics pipeline for real-time and batch processing of e-commerce web logs.
 
@@ -47,7 +60,7 @@ Distributed analytics pipeline for real-time and batch processing of e-commerce 
 
 ---
 
-### 🧠 Deep Learning — Breast Cancer Risk Prediction
+### 🧠 Deep Learning - Breast Cancer Risk Prediction
 
 AI pipeline for imbalanced medical data classification.
 
@@ -71,7 +84,7 @@ AI pipeline for imbalanced medical data classification.
 
 ## 📂 Additional Projects
 
-Credit scoring · Eligibility prediction · Medical cost modeling · Malaria detection · Nutri-score classification
+Eligibility prediction · Medical cost modeling · Malaria detection · Nutri-score classification
 
 ---
 
