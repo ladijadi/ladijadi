@@ -1,145 +1,82 @@
 # 👋 Hi, I’m Khady Diagne (@ladijadi)
 
-🎯 **Data Science | Machine Learning | AI | Quantitative Finance & Risk Modeling**
+🎯 **Data Science | Credit Risk Modeling | Big Data | Cloud AI**
 
-I’m passionate about leveraging **data science, machine learning, and AI** to solve complex problems in **finance, risk analysis, and digital transformation**.  
-Currently pursuing a **Master 2 in Data Science at IDMC - Université de Lorraine**, and self-training in **quantitative risk modeling (PD, LGD), NDoD**.
-
----
-
-## 🛠️ Skills
-
-**Programming & Data Engineering**  
-Python (Pandas, NumPy, SciPy, Scikit-learn, PyTorch, TensorFlow), SQL, R, SAS (learning), PySpark, Dataiku DSS, Git/GitLab, Docker (basics), APIs  
-
-**Machine Learning & AI**  
-Supervised & Unsupervised Learning, Regression, Decision Trees, XGBoost, Credit Scoring, Fraud Detection, Anomaly Detection, Time Series (ARIMA, Prophet, LSTM)  
-
-**Deep Learning & NLP**  
-CNN, RNN, Autoencoders, NLP (Text Classification, NER, Information Extraction), LLM (RAG, fine-tuning), Explainable AI (SHAP, LIME)  
-
-**Risk & Finance**  
-PD, LGD, EAD, Stress Tests, NDoD, Basel II/III, ECB/EBA regulatory frameworks  
-
-**Data Visualization & Tools**  
-Power BI, Tableau, Alteryx, Matplotlib, Seaborn, Plotly, Dash, Streamlit  
+Master’s student in Data Science (Université de Lorraine), specializing in **quantitative risk modeling** and **distributed data systems**. I build end-to-end data pipelines and machine learning solutions for finance and risk analytics.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 🩺 [Deep Learning – Breast Cancer Risk Prediction](https://github.com/ladijadi/DM_Deep_Learning/tree/main)
+### 🏦 LGD Modeling — Credit Risk Segmentation
 
-**Problem:**  
-Medical screening strategies for breast cancer often rely mainly on age, which is not sufficient to accurately assess patient risk.  
-The challenge is to predict cancer risk levels while handling **highly imbalanced medical data**.
+Regulatory-aligned LGD modeling to segment clients into homogeneous risk classes.
 
-**Solution:**  
-End-to-end AI project following the **CRISP methodology** to predict breast cancer risk levels (*Low, Medium, High*).  
-Several modeling strategies were tested to manage class imbalance and align model behavior with medical decision-making.
+* Feature engineering & discretization
+* Robust model validation
+* Construction of homogeneous risk classes (CHR)
 
-**Approaches:**  
-- MLP (Multi-Layer Perceptron) with class weighting  
-- Balanced Random Forest  
-- Balanced Random Forest with safety threshold (recall-oriented strategy for high-risk patients)
-
-**Tech Stack:**  
-Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, imbalanced-learn, Matplotlib
-
-**Outcome:**  
-Demonstrated that model evaluation must go beyond accuracy, especially in medical contexts, where **detecting rare but critical cases is a priority**.
-
-### 🏦 📉 [LGD Modeling – Loss Given Default (Healthy Portfolio)](https://github.com/ladijadi/Modelisation-de-la-LGD-pour-les-Sains)
-
-**Problem:**  
-Financial institutions must accurately estimate **Loss Given Default (LGD)** to quantify credit risk and meet regulatory requirements (EBA, Basel, IFRS 9).  
-The challenge is to model LGD using reliable, stable, and interpretable approaches, while ensuring regulatory robustness.
-
-**Data:**  
-The dataset contains **100+ demographic and financial variables** describing credit exposures that entered default between **2014 and 2022**, according to the **EBA regulatory definition of default**.  
-Explanatory variables for *healthy clients* are extracted **one year prior to default**, following best regulatory practices.
-
-**Objective:**  
-Develop a **segmentation model** to classify clients into **homogeneous risk classes (CHR)** based on LGD behavior.
-
-**Methodology:**  
-- Regulatory and business requirement analysis  
-- Data cleaning, representativity checks, and stability analysis  
-- Exploratory Data Analysis (EDA)  
-- Feature engineering, discretization, and selection  
-- Model development (linear regression, regression trees, gradient boosting)  
-- Model validation and robustness analysis  
-- Construction and validation of **homogeneous risk classes (CHR)**  
-
-**Tech Stack:**  
-Python, Pandas, NumPy, Scikit-learn, Matplotlib
-
-**Outcome:**  
-Identified key drivers of LGD, ensured stability of risk segmentation, and built a robust framework for **LGD estimation and credit risk quantification**, aligned with regulatory expectations.
-
-### ☁️ [🌐 Cloud Azure Credit Risk Project](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)
-**Problem:** End-to-end implementation of a credit risk data pipeline on the cloud.  
-**Solution:** Designed and deployed a complete architecture using **Alteryx**, **Azure Blob Storage, Azure SQL Database, and Azure Data Factory**, with **Power BI** for interactive dashboards.  
-**Tech Stack:** Python (Pandas, Matplotlib, Seaborn), Azure Cloud (Blob Storage, SQL DB, Data Factory), Power BI, Alteryx  
-**Outcome:** Automated credit risk scoring workflow (10M rows, 26 features) with KPI visualization on default rates, payment scores, and credit exposure.  
+**Tech:** Python · Scikit-learn · Pandas
+🔗 [https://github.com/ladijadi/Modelisation-de-la-LGD-pour-les-Sains](https://github.com/ladijadi/Modelisation-de-la-LGD-pour-les-Sains)
 
 ---
 
-### 🏦 [📊 Credit Risk Scoring](https://github.com/ladijadi/Projet_Scoring)
-**Problem:** Predict client default probability to support credit decision-making.  
-**Solution:** Developed a machine learning scoring model using financial client profiles.  
-**Tech Stack:** Python, Pandas, NumPy, SciPy.stats  
-**Outcome:** Risk segmentation to optimize loan approval processes.  
+### ☁️ Cloud Azure — Credit Risk Pipeline
+
+End-to-end cloud architecture for large-scale credit scoring.
+
+* Azure Blob + SQL + Data Factory pipeline
+* Automated scoring workflow
+* Interactive Power BI dashboards
+
+**Tech:** Azure · Python · Power BI · Alteryx
+🔗 [https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)
 
 ---
 
-### 🏦 [📊 Credit Eligibility Prediction](https://github.com/ladijadi/Prediction_eligibilite_credit_banque)
-**Problem:** Automate loan eligibility decisions.  
-**Solution:** End-to-end ML pipeline with model deployment via Flask API.  
-**Tech Stack:** Python, Scikit-Learn, Pandas, Flask  
-**Outcome:** Interactive tool to assess credit eligibility in real time.  
+### 📊 Big Data — Distributed Web Log Analysis
+
+Distributed analytics pipeline for real-time and batch processing of e-commerce web logs.
+
+* Spark batch & streaming analytics
+* HDFS distributed storage
+* MongoDB replica set + Docker orchestration
+
+**Tech:** Spark · HDFS · MongoDB · Docker · Python
+🔗 [https://github.com/ladijadi/projet_big_data_Analyse_logs_web_site_e-commerce](https://github.com/ladijadi/projet_big_data_Analyse_logs_web_site_e-commerce)
 
 ---
 
-### 🏥 [🩺 Prediction of Medical Expenses](https://github.com/ladijadi/prediction_frais_medicaux/blob/main/notebook.ipynb)
-**Problem:** Estimate healthcare costs based on patient data (age, BMI, medical conditions).  
-**Solution:** Regression model for cost prediction and insurance optimization.  
-**Tech Stack:** Python, Scikit-Learn, Pandas, Matplotlib  
-**Outcome:** Model with explainability for better decision support.  
+### 🧠 Deep Learning — Breast Cancer Risk Prediction
+
+AI pipeline for imbalanced medical data classification.
+
+* MLP & Balanced Random Forest
+* Recall-oriented safety strategy for high-risk detection
+
+**Tech:** TensorFlow · Scikit-learn · Python
+🔗 [https://github.com/ladijadi/DM_Deep_Learning](https://github.com/ladijadi/DM_Deep_Learning)
 
 ---
 
-### 🦟 [🦠 Malaria Detection with AI](https://github.com/ladijadi/Application-IA-Malaria)
-**Problem:** Detect malaria from blood cell images.  
-**Solution:** Deep Learning model (CNN) deployed with Flask for real-time classification.  
-**Tech Stack:** Python, TensorFlow, Keras, Flask  
-**Outcome:** Automated medical image classification with strong accuracy.  
+## 🧰 Technical Skills
+
+**Languages:** Python · SQL
+**Machine Learning:** Scikit-learn · TensorFlow · Deep Learning
+**Big Data:** Spark · Hadoop · MongoDB
+**Cloud:** Azure
+**Visualization:** Power BI · Matplotlib
 
 ---
 
-### 🍏 [📈 Nutri-Score Prediction](https://github.com/ladijadi/Nutriscore_OpenFoodsFacts_Docker)
-**Problem:** Classify food products based on nutrition values.  
-**Solution:** Predictive ML model for Nutri-Score classification.  
-**Tech Stack:** Python, Pandas, Matplotlib, Scikit-Learn  
-**Outcome:** Automated tool to support healthier food choices.  
+## 📂 Additional Projects
+
+Credit scoring · Eligibility prediction · Medical cost modeling · Malaria detection · Nutri-score classification
 
 ---
 
-## 🌱 Currently Learning
-- Quantitative Risk Modeling (PD, LGD, EAD, NDoD)  
-- Explainable AI (XAI), LLM fine-tuning & RAG  
-- Data engineering (PySpark, Docker, CI/CD)  
+## 📫 Contact
 
----
+📧 [khadydiagne18@gmail.com](mailto:khadydiagne18@gmail.com)
+💼 [https://www.linkedin.com/in/khady-diagne-datascientist/](https://www.linkedin.com/in/khady-diagne-stage-data-scientist)
 
-## 💡 Looking to Collaborate On
-- Open-source **data science applications**  
-- AI projects in **finance & risk analysis**  
-- Interactive data visualization tools  
-
----
-
-## 📫 How to Reach Me
-📧 [Email](mailto:khadydiagne18@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/khady-diagne-datascientist/)  
-
-⚡ **Fun Fact:** I enjoy solving data puzzles while sipping a great cup of coffee ☕
