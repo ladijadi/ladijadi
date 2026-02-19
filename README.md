@@ -1,95 +1,89 @@
-# 👋 Hi, I’m Khady Diagne (@ladijadi)
+# 👋 Hi, I’m Khady Diagne
 
-🎯 **Data Science | Credit Risk Modeling | Big Data | Cloud AI**
+🎯 Data Science | Machine Learning | Scalable Data Systems  
 
-Master’s student in Data Science (Université de Lorraine), specializing in **quantitative risk modeling** and **distributed data systems**. I build end-to-end data pipelines and machine learning solutions for finance and risk analytics.
+Master’s student in Data Science (Université de Lorraine) 
+I design end-to-end data pipelines, statistical models, and analytical tools to transform complex data into actionable insights.
+
+My work combines structured data analysis, model development, and scalable architectures across finance, healthcare, and digital systems.
+
+---
+
+## 💼 Core Focus
+
+• Machine Learning & Statistical Modeling  
+• Structured Data Analysis  
+• End-to-End Data Pipelines  
+• Distributed & Cloud-Based Architectures  
+• Decision-Support Analytics  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 Credit Risk Scoring - Default Prediction
+### 🏦 Credit Risk Scoring – Default Prediction
 
-Machine learning scoring model to predict client default probability and support credit decisions.
+Machine learning model to estimate probability of default and support credit decisions
 
-Risk segmentation for loan approval
+• Feature engineering  
+• Model validation & interpretability  
+• Risk segmentation  
 
-Feature engineering on financial profiles
-
-Performance evaluation beyond accuracy
-
-Tech: Python · Pandas · NumPy · Scikit-learn
+**Tech:** Python · Pandas · NumPy · Scikit-learn  
 🔗 https://github.com/ladijadi/Projet_Scoring
 
-### 🏦 LGD Modeling - Credit Risk Segmentation
+---
 
-Regulatory-aligned LGD modeling to segment clients into homogeneous risk classes.
+### ☁️ Cloud Azure – End-to-End Data Pipeline
 
-* Feature engineering & discretization
-* Robust model validation
-* Construction of homogeneous risk classes (CHR)
+Cloud architecture for scalable data ingestion, storage, and analytics
 
-**Tech:** Python · Scikit-learn · Pandas
-🔗 [https://github.com/ladijadi/Modelisation-de-la-LGD-pour-les-Sains](https://github.com/ladijadi/Modelisation-de-la-LGD-pour-les-Sains)
+• Azure Blob Storage + SQL pipeline  
+• Automated workflows  
+• Interactive Power BI dashboards  
+
+**Tech:** Azure · Python · SQL · Power BI · Docker  
+🔗 https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit
 
 ---
 
-### ☁️ Cloud Azure - Credit Risk Pipeline
+### 📊 Big Data – Distributed Log Analytics
 
-End-to-end cloud architecture for large-scale credit scoring.
+Distributed analytics pipeline for real-time and batch data processing
 
-* Azure Blob + SQL + Data Factory pipeline
-* Automated scoring workflow
-* Interactive Power BI dashboards
+• Spark batch & streaming  
+• HDFS distributed storage  
+• MongoDB replica set + Docker orchestration  
 
-**Tech:** Azure · Python · Power BI · Alteryx
-🔗 [https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)
-
----
-
-### 📊 Big Data - Distributed Web Log Analysis
-
-Distributed analytics pipeline for real-time and batch processing of e-commerce web logs.
-
-* Spark batch & streaming analytics
-* HDFS distributed storage
-* MongoDB replica set + Docker orchestration
-
-**Tech:** Spark · HDFS · MongoDB · Docker · Python
-🔗 [https://github.com/ladijadi/projet_big_data_Analyse_logs_web_site_e-commerce](https://github.com/ladijadi/projet_big_data_Analyse_logs_web_site_e-commerce)
+**Tech:** Spark · HDFS · MongoDB · Docker · Python  
+🔗 https://github.com/ladijadi/projet_big_data_Analyse_logs_web_site_e-commerce
 
 ---
 
-### 🧠 Deep Learning - Breast Cancer Risk Prediction
+### 🧠 Deep Learning – Imbalanced Classification
 
-AI pipeline for imbalanced medical data classification.
+ML pipeline for classification on imbalanced datasets
 
-* MLP & Balanced Random Forest
-* Recall-oriented safety strategy for high-risk detection
+• MLP & ensemble methods  
+• Recall-oriented performance evaluation  
 
-**Tech:** TensorFlow · Scikit-learn · Python
-🔗 [https://github.com/ladijadi/DM_Deep_Learning](https://github.com/ladijadi/DM_Deep_Learning)
-
----
-
-## 🧰 Technical Skills
-
-**Languages:** Python · SQL
-**Machine Learning:** Scikit-learn · TensorFlow · Deep Learning
-**Big Data:** Spark · Hadoop · MongoDB
-**Cloud:** Azure
-**Visualization:** Power BI · Matplotlib
+**Tech:** TensorFlow · Scikit-learn · Python  
+🔗 https://github.com/ladijadi/DM_Deep_Learning
 
 ---
 
-## 📂 Additional Projects
+## 🧰 Technical Stack
 
-Eligibility prediction · Medical cost modeling · Malaria detection · Nutri-score classification
+• Python & SQL  
+• Machine Learning (Scikit-learn, TensorFlow)  
+• Cloud (Azure)  
+• Big Data (Spark, HDFS)  
+• Data Visualization (Power BI, Matplotlib)  
+• Docker & APIs  
 
 ---
 
 ## 📫 Contact
 
-📧 [khadydiagne18@gmail.com](mailto:khadydiagne18@gmail.com)
-💼 [https://www.linkedin.com/in/khady-diagne-datascientist/](https://www.linkedin.com/in/khady-diagne-stage-data-scientist)
-
+📧 khadydiagne18@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/khady-diagne-stage-data-scientist
