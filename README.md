@@ -2,10 +2,9 @@
 
 🎯 Data Science | Machine Learning | Scalable Data Systems  
 
-Master’s student in Data Science (Université de Lorraine) 
-I design end-to-end data pipelines, statistical models, and analytical tools to transform complex data into actionable insights.
+Master’s student in Data Science (Université de Lorraine)
 
-My work combines structured data analysis, model development, and scalable architectures across finance, healthcare, and digital systems.
+I build machine learning models and scalable data pipelines to transform complex datasets into decision-support tools across finance, marketing and digital systems.
 
 ---
 
@@ -21,7 +20,7 @@ My work combines structured data analysis, model development, and scalable archi
 
 ## 🚀 Featured Projects
 
-### 🏦 Credit Risk Scoring – Default Prediction
+### 🏦 Credit Risk Scoring - Default Prediction
 
 Machine learning model to estimate probability of default and support credit decisions
 
@@ -34,7 +33,22 @@ Machine learning model to estimate probability of default and support credit dec
 
 ---
 
-### ☁️ Cloud Azure – End-to-End Data Pipeline
+### 📈 Marketing Analytics - Customer Subscription Prediction
+
+Supervised machine learning model predicting customer subscription to a bank term deposit using the UCI Bank Marketing dataset.
+
+• Exploratory data analysis on 41k observations  
+• Logistic regression with class imbalance handling  
+• Random Forest comparison and hyperparameter tuning  
+• Model interpretation (odds ratios & feature importance)
+
+**Tech:** Python · Pandas · Scikit-learn · Matplotlib  
+
+🔗 https://github.com/ladijadi/Projet_Scoring_bank-marketing
+
+---
+
+### ☁️ Cloud Azure - End-to-End Data Pipeline
 
 Cloud architecture for scalable data ingestion, storage, and analytics
 
@@ -47,7 +61,7 @@ Cloud architecture for scalable data ingestion, storage, and analytics
 
 ---
 
-### 📊 Big Data – Distributed Log Analytics
+### 📊 Big Data - Distributed Log Analytics
 
 Distributed analytics pipeline for real-time and batch data processing
 
@@ -60,7 +74,7 @@ Distributed analytics pipeline for real-time and batch data processing
 
 ---
 
-### 🧠 Deep Learning – Imbalanced Classification
+### 🧠 Deep Learning - Imbalanced Classification
 
 ML pipeline for classification on imbalanced datasets
 
@@ -74,12 +88,13 @@ ML pipeline for classification on imbalanced datasets
 
 ## 🧰 Technical Stack
 
-• Python & SQL  
-• Machine Learning (Scikit-learn, TensorFlow)  
-• Cloud (Azure)  
+• Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
+• SQL  
+• Machine Learning & Statistical Modeling  
+• Cloud Computing (Azure)  
 • Big Data (Spark, HDFS)  
 • Data Visualization (Power BI, Matplotlib)  
-• Docker & APIs  
+• Docker & APIs
 
 ---
 
