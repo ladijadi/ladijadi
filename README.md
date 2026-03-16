@@ -66,7 +66,7 @@ Supervised machine learning model predicting customer subscription to a bank ter
 
 ---
 
-## ☁️ Cloud Azure – End-to-End Data Pipeline
+## ☁️ Cloud Azure – End-to-End Data Pipeline & Power BI
 
 Cloud architecture for scalable data ingestion, storage and analytics.
 
