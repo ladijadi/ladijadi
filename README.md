@@ -13,7 +13,7 @@ I design end-to-end data science workflows: from **data exploration and feature 
 • Credit Risk Modeling (PD estimation)  
 • Machine Learning & Statistical Modeling  
 • Structured Data Analysis  
-• End-to-End Data Pipelines  
+• End-to-End Data Pipelines & Power BI
 • Distributed & Cloud Data Architectures  
 
 ---
