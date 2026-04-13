@@ -42,17 +42,31 @@ More diverse learning activity improves performance, while passive behaviour red
 
 ## ☁️ Credit Risk Data Pipeline & BI Dashboard (Azure)
 
-End-to-end data pipeline and dashboard for credit risk analysis.
+End-to-end analytics project combining **cloud data engineering, data transformation and business intelligence** for credit risk analysis.
 
-• Data ingestion (Azure Blob)  
-• Data transformation (Python / SQL)  
-• Dashboarding (Power BI)  
-• Risk indicator analysis  
+The project turns raw credit data into **decision-ready insights** through a complete pipeline: ingestion, storage, transformation and dashboarding.
 
-**Business Value:**  
-Supports risk monitoring and data-driven decision-making.
+**Key contributions**
+
+• Data ingestion and storage with Azure Blob Storage  
+• Data preparation and transformation with Python and SQL  
+• Analytical data modeling for reporting  
+• Interactive Power BI dashboards for portfolio monitoring  
+• Exploration of customer risk profiles and repayment behaviour  
+
+**Business Value**
+
+• Support credit risk monitoring  
+• Identify high-risk customer segments  
+• Improve portfolio understanding through visual analytics  
+• Enable data-driven decision-making  
+
+**Tech:** Azure · Python · SQL · Power BI · Docker  
 
 👉 🔗 **[View Project – Credit Risk Dashboard (Azure)](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)**
+
+<img width="1213" height="668" alt="Screenshot 2026-04-13 102636" src="https://github.com/user-attachments/assets/e845b3e9-5b12-41c4-9e51-30510b110c0b" />
+
 
 ---
 
