@@ -22,7 +22,7 @@ I design end-to-end data workflows, from **data cleaning and transformation to d
 
 ## 🎓 Student Performance Analytics (ARCHE)
 
-![Interface] <img width="712" height="925" alt="interface" src="https://github.com/user-attachments/assets/793ade68-1146-4391-b730-0df509deaf17" />
+<img width="712" height="925" alt="interface" src="https://github.com/user-attachments/assets/793ade68-1146-4391-b730-0df509deaf17" />
 
 Application interactive permettant de prédire la note d’un étudiant...
 
