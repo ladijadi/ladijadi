@@ -1,148 +1,99 @@
 # 👋 Hi, I’m Khady Diagne  
 
-🎯 Data Science | Machine Learning | Data Analytics  
+🎯 Data Analyst | Business Intelligence | Data Science (Applied)
 
-Master’s student in Data Science (Université de Lorraine), with experience in **data analysis, statistical modelling and machine learning applied to real-world problems**, including finance and customer analytics.
+Master’s student in Data Science (Université de Lorraine), specialising in **data analysis, dashboarding and decision support systems**, with applications in finance and customer analytics.
 
-I design end-to-end data workflows, from **data exploration and feature engineering to predictive modelling and data visualisation**, using Python, SQL and BI tools.
+I design end-to-end data workflows, from **data cleaning and transformation to data visualisation and business insights**, using Python, SQL and Power BI.
 
 ---
 
-# 💼 Core Focus
+# 💼 What I Bring
 
-• Data Analysis & Data Exploration  
-• Machine Learning & Statistical Modeling  
-• Predictive Modelling  
-• Data Visualization (Power BI)  
-• End-to-End Data Pipelines  
-• Applied Analytics (Finance, Marketing)
+• Transform raw data into **actionable business insights**  
+• Build **interactive dashboards (Power BI)** for decision-making  
+• Clean, structure and analyse data from multiple sources  
+• Apply statistical models when relevant  
+• Translate data into clear and usable recommendations  
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 Predictive Modeling – Credit Risk (PD Estimation)
+## 🎓 Student Performance Analytics (ARCHE)
 
-Development of an interpretable **credit scoring model** to estimate the probability of default using the UCI Credit Card dataset (30k observations).
+End-to-end project analysing and predicting student performance based on behavioural logs.
 
-The project combines **statistical modelling and machine learning approaches** to identify key drivers of default risk.
+• Feature engineering from raw logs  
+• Behavioural analysis of learning patterns  
+• Regression & decision tree models  
+• Interactive interface for simulation  
 
-**Main steps**
+**Key Insight:**  
+More diverse learning activity improves performance, while passive behaviour reduces it.
 
-• Exploratory Data Analysis  
-• Feature engineering and preprocessing  
-• Logistic Regression modelling (interpretable approach)  
-• Model evaluation: ROC-AUC, KS statistic, Gini coefficient  
-• Lift curve analysis  
-• Random Forest comparison and feature importance  
+👉 🔗 **[View Project – Student Performance Analytics (ARCHE)](https://github.com/ladijadi/Projet_Arche)**
 
-**Key Results**
+---
 
-• AUC ≈ 0.71  
-• Gini ≈ 0.43  
-• KS ≈ 0.37  
+## ☁️ Credit Risk Data Pipeline & BI Dashboard (Azure)
 
-Key insight: **payment behaviour variables (PAY_0)** are the strongest predictors of default risk.
+End-to-end data pipeline and dashboard for credit risk analysis.
 
-**Tech:** Python · Pandas · NumPy · Scikit-learn · Statsmodels · Matplotlib  
+• Data ingestion (Azure Blob)  
+• Data transformation (Python / SQL)  
+• Dashboarding (Power BI)  
+• Risk indicator analysis  
 
-🔗 https://github.com/ladijadi/credit-risk-scoring-logistic-regression
+**Business Value:**  
+Supports risk monitoring and data-driven decision-making.
+
+👉 🔗 **[View Project – Credit Risk Dashboard (Azure)](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)**
+
+---
+
+## 📊 Credit Risk Modeling – PD Estimation
+
+Credit scoring model to estimate probability of default.
+
+• Logistic regression (interpretable model)  
+• Feature engineering  
+• Model evaluation (AUC, KS, Gini)  
+
+👉 🔗 **[View Project – Credit Scoring Model](https://github.com/ladijadi/credit-risk-scoring-logistic-regression)**
 
 ---
 
 ## 📈 Customer Analytics – Subscription Prediction
 
-Supervised machine learning model predicting customer subscription using the **Bank Marketing dataset (41k observations)**.
+Customer behaviour analysis and subscription prediction.
 
-**Main steps**
+• Exploratory analysis  
+• Logistic regression & Random Forest  
+• Model interpretation  
 
-• Exploratory data analysis  
-• Logistic regression with class imbalance handling  
-• Random Forest comparison and tuning  
-• Model interpretation (odds ratios & feature importance)
-
-**Tech:** Python · Pandas · Scikit-learn · Matplotlib  
-
-🔗 https://github.com/ladijadi/Projet_Scoring_bank-marketing
-
----
-
-## ☁️ Cloud Data Pipeline – Azure & Power BI
-
-End-to-end cloud architecture for scalable data ingestion, transformation and analytics.
-
-**Architecture**
-
-• Azure Blob Storage for ingestion  
-• Azure SQL for transformation  
-• Automated workflows  
-• Interactive dashboards with Power BI  
-
-**Tech:** Azure · Python · SQL · Power BI · Docker  
-
-🔗 https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit
+👉 🔗 **[View Project – Customer Analytics](https://github.com/ladijadi/Projet_Scoring_bank-marketing)**
 
 ---
 
 ## 📊 Big Data – Distributed Log Analytics
 
-Distributed pipeline for large-scale web log analysis.
+Large-scale log analysis using distributed systems.
 
-**Architecture**
-
-• Spark batch & streaming  
-• HDFS storage  
-• MongoDB replica set  
-• Docker orchestration  
-
-**Tech:** Spark · HDFS · MongoDB · Docker · Python  
-
-🔗 https://github.com/ladijadi/projet_big_data_Analyse_logs_web_site_e-commerce
-
----
-
-## 🧠 Machine Learning – Imbalanced Classification
-
-Classification pipeline for imbalanced datasets.
-
-**Methods**
-
-• Multilayer Perceptron (MLP)  
-• Ensemble models  
-• Recall-focused evaluation  
-
-**Tech:** TensorFlow · Scikit-learn · Python  
-
-🔗 https://github.com/ladijadi/DM_Deep_Learning
+👉 🔗 **[View Project – Big Data Pipeline](https://github.com/ladijadi/projet_big_data_Analyse_logs_web_site_e-commerce)**
 
 ---
 
 # 🧰 Technical Stack
 
-**Programming**
+**Languages & Tools**  
+Python · SQL · Power BI  
 
-• Python (Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow)  
-• SQL  
+**Data Skills**  
+Data Cleaning · EDA · Data Visualization · Statistical Analysis  
 
-**Data Science & Analytics**
-
-• Data Analysis  
-• Machine Learning  
-• Statistical Modeling  
-
-**Data Engineering**
-
-• Spark  
-• Docker  
-
-**Cloud**
-
-• Microsoft Azure  
-
-**Visualization**
-
-• Power BI  
-• Matplotlib  
+**Other**  
+Spark · Docker · Azure  
 
 ---
 
