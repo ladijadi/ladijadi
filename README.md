@@ -35,8 +35,11 @@ More diverse learning activity improves performance, while passive behaviour red
 👉 🔗 **[View Project – Student Performance Analytics (ARCHE)](https://github.com/ladijadi/Projet_Arche)**
 
 Application interactive permettant de prédire la note d’un étudiant...
+
 Modèle sélectionné : Arbre de décision  
+
 RMSE = 0.87 | R² = 0.29
+
 <img width="712" height="925" alt="interface" src="https://github.com/user-attachments/assets/793ade68-1146-4391-b730-0df509deaf17" />
 
 ---
@@ -65,6 +68,8 @@ The project turns raw credit data into **decision-ready insights** through a com
 **Tech:** Azure · Python · SQL · Power BI · Docker  
 
 👉 🔗 **[View Project – Credit Risk Dashboard (Azure)](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)**
+
+Centralized view of credit risk KPIs enabling quick identification of high-risk segments.
 
 <img width="1210" height="672" alt="image" src="https://github.com/user-attachments/assets/224fe0aa-32a6-41e6-b560-185c8ff8c21d" />
 
@@ -130,15 +135,12 @@ This project demonstrates how data can be used to:
 👉 🔗 **[View Project – Customer Analytics & Subscription Prediction](https://github.com/ladijadi/Projet_Scoring_bank-marketing)**
 
 <img width="1896" height="1067" alt="Screenshot 2026-04-13 102318" src="https://github.com/user-attachments/assets/2fc86319-ba98-4f6b-8d32-44b26a3a52ea" />
+
+Trade-off between recall and precision in an imbalanced classification problem → model choice depends on business objective.
+
 <img width="1893" height="1017" alt="Screenshot 2026-04-13 102359" src="https://github.com/user-attachments/assets/5167acb1-33b3-4bf0-bca2-e2e69a3b68bd" />
 
-
-📊 Model comparison highlighting the trade-off between precision and recall in an imbalanced classification context.
-
-→ Logistic regression (weighted) improves recall significantly, making it more suitable for detecting potential subscribers.
-→ Random Forest achieves higher AUC but lower recall.
-
-➡️ Final model choice depends on business objective (maximize detection vs minimize false positives).
+No single best model — the optimal choice depends on whether the goal is detection or precision.
 
 ---
 
