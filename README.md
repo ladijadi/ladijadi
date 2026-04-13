@@ -22,6 +22,9 @@ I design end-to-end data workflows, from **data cleaning and transformation to d
 
 ## 🎓 Student Performance Analytics (ARCHE)
 
+![Interface](output/interface.png)
+Application interactive permettant de prédire la note d’un étudiant...
+
 End-to-end project analysing and predicting student performance based on behavioural logs.
 
 • Feature engineering from raw logs  
@@ -64,15 +67,52 @@ Credit scoring model to estimate probability of default.
 
 ---
 
-## 📈 Customer Analytics – Subscription Prediction
+## 📈 Customer Analytics – Marketing Campaign Optimization
 
-Customer behaviour analysis and subscription prediction.
+Analysis and prediction of customer subscription to term deposits using behavioural and macroeconomic data.
 
-• Exploratory analysis  
-• Logistic regression & Random Forest  
-• Model interpretation  
+The objective is to **improve marketing campaign efficiency and targeting strategy**.
 
-👉 🔗 **[View Project – Customer Analytics](https://github.com/ladijadi/Projet_Scoring_bank-marketing)**
+**Key Challenges**
+
+• Highly imbalanced dataset (≈ 11% positive class)  
+• Risk of misleading performance (accuracy bias)  
+• Need to balance detection vs precision  
+
+**Approach**
+
+• Data preprocessing pipeline (imputation, scaling, encoding)  
+• Logistic Regression (interpretable model)  
+• Random Forest (non-linear model)  
+• Class imbalance handling (class weighting)  
+
+**Key Results**
+
+• Logistic Regression (weighted):
+  → Strong improvement in recall (better detection of subscribers)
+
+• Random Forest:
+  → Best global discrimination (ROC-AUC ≈ 0.81)
+
+**Business Insight**
+
+• Subscription depends on:
+  - Customer profile  
+  - Campaign history  
+  - Macroeconomic context  
+
+• Trade-off identified:
+  - Maximise detection → Logistic Regression  
+  - Maximise overall performance → Random Forest  
+
+**Business Value**
+
+This project demonstrates how data can be used to:
+• Improve campaign targeting  
+• Increase conversion rates  
+• Support marketing decision-making  
+
+👉 🔗 **[View Project – Customer Analytics & Subscription Prediction](https://github.com/ladijadi/Projet_Scoring_bank-marketing)**
 
 ---
 
