@@ -76,29 +76,6 @@ For instance, the top decile reaches a default rate above 60%, compared to aroun
 
 This confirms that the model effectively ranks borrowers by risk level.
 
-
-## 🎓 Student Performance Analytics (ARCHE)
-
-End-to-end project analysing and predicting student performance based on behavioural logs.
-
-• Feature engineering from raw logs  
-• Behavioural analysis of learning patterns  
-• Regression & decision tree models  
-• Interactive interface for simulation  
-
-**Key Insight:**  
-More diverse learning activity improves performance, while passive behaviour reduces it.
-
-👉 🔗 **[View Project – Student Performance Analytics (ARCHE)](https://github.com/ladijadi/Projet_Arche)**
-
-Application interactive permettant de prédire la note d’un étudiant...
-
-Modèle sélectionné : Arbre de décision  
-
-RMSE = 0.87 | R² = 0.29
-
-<img width="712" height="925" alt="interface" src="https://github.com/user-attachments/assets/793ade68-1146-4391-b730-0df509deaf17" />
-
 ---
 
 ## ☁️ Credit Risk Data Pipeline & BI Dashboard (Azure)
@@ -189,6 +166,30 @@ No single best model — the optimal choice depends on whether the goal is detec
 
 ---
 
+## 🎓 Student Performance Analytics (ARCHE)
+
+End-to-end project analysing and predicting student performance based on behavioural logs.
+
+• Feature engineering from raw logs  
+• Behavioural analysis of learning patterns  
+• Regression & decision tree models  
+• Interactive interface for simulation  
+
+**Key Insight:**  
+More diverse learning activity improves performance, while passive behaviour reduces it.
+
+👉 🔗 **[View Project – Student Performance Analytics (ARCHE)](https://github.com/ladijadi/Projet_Arche)**
+
+Application interactive permettant de prédire la note d’un étudiant...
+
+Modèle sélectionné : Arbre de décision  
+
+RMSE = 0.87 | R² = 0.29
+
+<img width="712" height="925" alt="interface" src="https://github.com/user-attachments/assets/793ade68-1146-4391-b730-0df509deaf17" />
+
+---
+
 ## 📊 Big Data – Distributed Log Analytics
 
 Large-scale log analysis using distributed systems.
@@ -206,7 +207,7 @@ Python · SQL · Power BI
 Data Cleaning · EDA · Data Visualization · Statistical Analysis  
 
 **Other**  
-Spark · Docker · Azure  
+Alteryx · Spark · Docker · Azure  
 
 ---
 
