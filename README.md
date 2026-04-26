@@ -1,24 +1,81 @@
 # 👋 Hi, I’m Khady Diagne  
 
-🎯 Data Analyst | Business Intelligence | Data Science (Applied)
+🎯 Credit Risk Data Analyst | Quantitative Risk (PD, LGD) | Power BI · Python · SQL
 
-Master’s student in Data Science (Université de Lorraine), specialising in **data analysis, dashboarding and decision support systems**, with applications in finance and customer analytics.
+Master’s student in Data Science specialising in credit risk analytics and quantitative modelling (PD, LGD).
 
-I design end-to-end data workflows, from **data cleaning and transformation to data visualisation and business insights**, using Python, SQL and Power BI.
+I design data workflows and analytical solutions to support credit risk decision-making, combining statistical modelling and business intelligence tools (Python, SQL, Power BI).
 
 ---
 
 # 💼 What I Bring
 
-• Transform raw data into **actionable business insights**  
-• Build **interactive dashboards (Power BI)** for decision-making  
-• Clean, structure and analyse data from multiple sources  
-• Apply statistical models when relevant  
-• Translate data into clear and usable recommendations  
+• Analyse credit data to support risk assessment and decision-making
+• Develop interpretable models (PD estimation, LGD analysis)
+• Transform raw data into risk insights and business recommendations
+• Combine statistical analysis and BI tools for credit analytics
+• Build risk dashboards (Power BI) for portfolio monitoring
 
 ---
 
 # 🚀 Featured Projects
+
+## 📊 Credit Risk Modeling – PD Estimation
+
+Development of a credit scoring model to estimate the **Probability of Default (PD)** and support credit decision-making.
+
+The objective is to identify high-risk borrowers and improve **risk segmentation and portfolio monitoring**.
+
+### **Key Challenges**
+
+• Imbalanced dataset (low default rate)  
+• Need for **interpretable models** in a regulatory context  
+• Trade-off between detection (recall) and precision  
+
+### **Approach**
+
+• Data preprocessing (missing values, encoding, feature scaling)  
+• Feature engineering and variable selection  
+• Logistic Regression (interpretable baseline model)  
+• Model evaluation using **AUC, KS, Gini and classification metrics**  
+• Threshold analysis for decision-making  
+
+### **Key Results**
+
+• ROC-AUC ≈ 0.71 → good discrimination power  
+• KS ≈ 0.37 → effective separation between good and bad clients  
+• Identification of key risk drivers (e.g. payment behaviour variables)  
+
+### **Business Insight**
+
+• Payment behaviour is the strongest predictor of default  
+• Model enables:
+  - identification of high-risk segments  
+  - support for credit approval decisions  
+  - improved risk monitoring  
+
+### **Business Value**
+
+This project demonstrates how data can be used to:
+
+• Support credit risk assessment  
+• Improve decision-making in loan approval  
+• Enhance portfolio risk understanding  
+
+👉 🔗 **[View Project – Credit Scoring Model](https://github.com/ladijadi/credit-risk-scoring-logistic-regression)**
+
+<img width="536" height="547" alt="image" src="https://github.com/user-attachments/assets/e698fe3f-961b-4fd0-951b-d8e9a0a5cf7f" />
+
+The model shows a solid discrimination power with an AUC of 0.73, indicating a good ability to distinguish between defaulting and non-defaulting clients.
+
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/42b25811-cb9c-49f9-a30f-fe184c6ad9bc" />
+
+The lift curve shows a strong concentration of defaults in the highest risk deciles.
+
+For instance, the top decile reaches a default rate above 60%, compared to around 12% for low-risk segments.
+
+This confirms that the model effectively ranks borrowers by risk level.
+
 
 ## 🎓 Student Performance Analytics (ARCHE)
 
@@ -72,18 +129,6 @@ The project turns raw credit data into **decision-ready insights** through a com
 Centralized view of credit risk KPIs enabling quick identification of high-risk segments.
 
 <img width="1210" height="672" alt="image" src="https://github.com/user-attachments/assets/224fe0aa-32a6-41e6-b560-185c8ff8c21d" />
-
----
-
-## 📊 Credit Risk Modeling – PD Estimation
-
-Credit scoring model to estimate probability of default.
-
-• Logistic regression (interpretable model)  
-• Feature engineering  
-• Model evaluation (AUC, KS, Gini)  
-
-👉 🔗 **[View Project – Credit Scoring Model](https://github.com/ladijadi/credit-risk-scoring-logistic-regression)**
 
 ---
 
