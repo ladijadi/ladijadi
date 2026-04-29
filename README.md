@@ -78,37 +78,6 @@ This confirms that the model effectively ranks borrowers by risk level.
 
 ---
 
-## ☁️ Credit Risk Data Pipeline & BI Dashboard (Azure)
-
-End-to-end analytics project combining **cloud data engineering, data transformation and business intelligence** for credit risk analysis.
-
-The project turns raw credit data into **decision-ready insights** through a complete pipeline: ingestion, storage, transformation and dashboarding.
-
-**Key contributions**
-
-• Data ingestion and storage with Azure Blob Storage  
-• Data preparation and transformation with Python and SQL  
-• Analytical data modeling for reporting  
-• Interactive Power BI dashboards for portfolio monitoring  
-• Exploration of customer risk profiles and repayment behaviour  
-
-**Business Value**
-
-• Support credit risk monitoring  
-• Identify high-risk customer segments  
-• Improve portfolio understanding through visual analytics  
-• Enable data-driven decision-making  
-
-**Tech:** Azure · Python · SQL · Power BI · Docker  
-
-👉 🔗 **[View Project – Credit Risk Dashboard (Azure)](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)**
-
-Centralized view of credit risk KPIs enabling quick identification of high-risk segments.
-
-<img width="1210" height="672" alt="image" src="https://github.com/user-attachments/assets/224fe0aa-32a6-41e6-b560-185c8ff8c21d" />
-
----
-
 ## 📈 Customer Analytics – Marketing Campaign Optimization
 
 Analysis and prediction of customer subscription to term deposits using behavioural and macroeconomic data.
@@ -163,6 +132,37 @@ Trade-off between recall and precision in an imbalanced classification problem �
 <img width="1893" height="1017" alt="Screenshot 2026-04-13 102359" src="https://github.com/user-attachments/assets/5167acb1-33b3-4bf0-bca2-e2e69a3b68bd" />
 
 No single best model — the optimal choice depends on whether the goal is detection or precision.
+
+---
+
+## ☁️ Credit Risk Data Pipeline & BI Dashboard (Azure)
+
+End-to-end analytics project combining **cloud data engineering, data transformation and business intelligence** for credit risk analysis.
+
+The project turns raw credit data into **decision-ready insights** through a complete pipeline: ingestion, storage, transformation and dashboarding.
+
+**Key contributions**
+
+• Data ingestion and storage with Azure Blob Storage  
+• Data preparation and transformation with Python and SQL  
+• Analytical data modeling for reporting  
+• Interactive Power BI dashboards for portfolio monitoring  
+• Exploration of customer risk profiles and repayment behaviour  
+
+**Business Value**
+
+• Support credit risk monitoring  
+• Identify high-risk customer segments  
+• Improve portfolio understanding through visual analytics  
+• Enable data-driven decision-making  
+
+**Tech:** Azure · Python · SQL · Power BI · Docker  
+
+👉 🔗 **[View Project – Credit Risk Dashboard (Azure)](https://github.com/ladijadi/Projet_Cloud_Azure_Risque_de_Credit)**
+
+Centralized view of credit risk KPIs enabling quick identification of high-risk segments.
+
+<img width="1210" height="672" alt="image" src="https://github.com/user-attachments/assets/224fe0aa-32a6-41e6-b560-185c8ff8c21d" />
 
 ---
 
