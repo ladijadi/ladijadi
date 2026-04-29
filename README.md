@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Khady Diagne  
 
-🎯 Credit Risk Data Analyst | Quantitative Risk (PD, LGD) | Power BI · Python · SQL
+🎯 Data scientist | Credit Risk Data Analyst | Quantitative Risk (PD, LGD) | Power BI · Python · SQL
 
-Master’s student in Data Science specialising in credit risk analytics and quantitative modelling (PD, LGD).
+Master’s student in Data Science with project experience in credit risk analytics and quantitative modelling (PD, LGD).
 
 I design data workflows and analytical solutions to support credit risk decision-making, combining statistical modelling and business intelligence tools (Python, SQL, Power BI).
 
