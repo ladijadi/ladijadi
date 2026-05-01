@@ -211,6 +211,34 @@ Alteryx · Spark · Docker · Azure
 
 ---
 
+# Credit Risk API — Secure Backend for Credit Decisioning
+
+Compact REST API for managing credit applications and risk evaluation, built for reliability, security and auditability.
+
+## Key highlights
+
+- Role-based access control — API Key, JWT & Basic Auth
+- Secure credential storage (bcrypt) and 60‑minute JWT lifetime
+- Full CRUD for credit requests, customers and risk scores
+- TypeORM + MariaDB for reliable persistence and migrations
+- Containerized with Docker Compose for reproducible deployment
+
+## Business impact
+
+- Secure, auditable intake and processing of credit requests
+- Supports portfolio monitoring and risk segmentation workflows
+- Ready for integration with BI and scoring pipelines
+
+## Tech stack
+
+Hono · TypeScript · TypeORM · MariaDB · Docker · JWT
+
+## Link
+
+👉 View project: https://github.com/ladijadi/CreditRisk_API
+
+---
+
 # 📫 Contact
 
 📧 khadydiagne18@gmail.com  
