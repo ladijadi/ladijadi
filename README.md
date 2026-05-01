@@ -11,9 +11,13 @@ I design data workflows and analytical solutions to support credit risk decision
 # 💼 What I Bring
 
 • Analyse credit data to support risk assessment and decision-making
+
 • Develop interpretable models (PD estimation, LGD analysis)
+
 • Transform raw data into risk insights and business recommendations
+
 • Combine statistical analysis and BI tools for credit analytics
+
 • Build risk dashboards (Power BI) for portfolio monitoring
 
 ---
@@ -29,27 +33,37 @@ The objective is to identify high-risk borrowers and improve **risk segmentation
 ### **Key Challenges**
 
 • Imbalanced dataset (low default rate)  
+
 • Need for **interpretable models** in a regulatory context  
+
 • Trade-off between detection (recall) and precision  
 
 ### **Approach**
 
 • Data preprocessing (missing values, encoding, feature scaling)  
+
 • Feature engineering and variable selection  
+
 • Logistic Regression (interpretable baseline model)  
+
 • Model evaluation using **AUC, KS, Gini and classification metrics**  
+
 • Threshold analysis for decision-making  
 
 ### **Key Results**
 
 • ROC-AUC ≈ 0.71 → good discrimination power  
+
 • KS ≈ 0.37 → effective separation between good and bad clients  
+
 • Identification of key risk drivers (e.g. payment behaviour variables)  
 
 ### **Business Insight**
 
 • Payment behaviour is the strongest predictor of default  
+
 • Model enables:
+
   - identification of high-risk segments  
   - support for credit approval decisions  
   - improved risk monitoring  
