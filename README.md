@@ -11,9 +11,13 @@ I design data workflows and analytical solutions to support credit risk decision
 # 💼 What I Bring
 
 • Analyse credit data to support risk assessment and decision-making
+
 • Develop interpretable models (PD estimation, LGD analysis)
+
 • Transform raw data into risk insights and business recommendations
+
 • Combine statistical analysis and BI tools for credit analytics
+
 • Build risk dashboards (Power BI) for portfolio monitoring
 
 ---
