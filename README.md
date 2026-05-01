@@ -198,19 +198,6 @@ Large-scale log analysis using distributed systems.
 
 ---
 
-# 🧰 Technical Stack
-
-**Languages & Tools**  
-Python · SQL · Power BI  
-
-**Data Skills**  
-Data Cleaning · EDA · Data Visualization · Statistical Analysis  
-
-**Other**  
-Alteryx · Spark · Docker · Azure  
-
----
-
 ## Credit Risk API - Secure Backend for Credit Decisioning
 
 Compact REST API for managing credit applications and risk evaluation, built for reliability, security and auditability.
@@ -236,6 +223,19 @@ Hono · TypeScript · TypeORM · MariaDB · Docker · JWT
 ## Link
 
 👉 View project: https://github.com/ladijadi/CreditRisk_API
+
+---
+
+# 🧰 Technical Stack
+
+**Languages & Tools**  
+Python · SQL · Power BI  
+
+**Data Skills**  
+Data Cleaning · EDA · Data Visualization · Statistical Analysis  
+
+**Other**  
+Alteryx · Spark · Docker · Azure  
 
 ---
 
